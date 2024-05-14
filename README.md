@@ -61,7 +61,7 @@ This repository serves as an archive of past assignments for 1st-semester comput
 - Grade: 100/100
 
 ## Notes
-- Most assignments were graded out of 30 marks for part A and 70 marks for part B, except for Assignments 5, 9, 10, and 11, which were graded out of 100 marks.
+- Most assignments were graded out of 30 for part A and 70 for part B, except for Assignments 5, 9, 10, and 11, which were graded out of 100.
 
 ## Disclaimer
 The content in this repository is for reference purposes only. **Do not plagiarize** any part of these assignments. Plagiarism can have serious consequences.
